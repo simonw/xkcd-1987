@@ -1,4 +1,4 @@
-# xkcd-1987
+# xkcd-1987.sh
 
 **STATUS: Not yet working, just a sketch of an idea.**
 
